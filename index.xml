@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Chang</title>
+    <link>https://jiachang0902.github.io/</link>
+    <description>Recent content on Jia Chang</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 17 May 2026 14:56:04 +1000</lastBuildDate>
+    <atom:link href="https://jiachang0902.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Project</title>
+      <link>https://jiachang0902.github.io/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://jiachang0902.github.io/products/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>那些無法被樂譜定格的，才是音樂的靈魂</title>
+      <link>https://jiachang0902.github.io/blog/my-first-post/</link>
+      <pubDate>Sun, 17 May 2026 14:56:04 +1000</pubDate>
+      <guid>https://jiachang0902.github.io/blog/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;歡迎來到-feeler一個專注於音樂觸覺與聲音美學的實驗室&#34;&gt;歡迎來到 Feeler，一個專注於音樂觸覺與聲音美學的實驗室。&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;每當我坐在螢幕前，看著 DAW 裡無數條精準的音軌和頻譜，我常常在想：科技讓所有人都能輕易做出「對的音樂」，但到底是什麼，讓一首歌變得「迷人」？&lt;/p&gt;&#xA;&lt;p&gt;是貝斯在重拍前那一絲刻意的遲疑（Groove）？還是歌手氣音裡不經意流露的脆弱？&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;音樂不只是物理上的頻率，更是情感的延伸。這也是為什麼我將這個空間命名為 &lt;strong&gt;Feeler（感覺者）&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;過去這些年，我在幕後參與了許多流行音樂的製作、詞曲創作與配唱指導。我發現，無論是剛接觸編曲的初學者，還是經驗豐富的創作者，我們最終在追求的，都不是更複雜的樂理，而是如何精準地用聲音，勾勒出腦海中的那幅畫面。&lt;/p&gt;&#xA;&lt;p&gt;建立 Feeler 的初衷很簡單：我想打造一個不流於俗套的聲音基地。&lt;/p&gt;&#xA;&lt;p&gt;在這裡，我們不填鴨死板的技術，而是分享**「如何聽、如何感受、如何將直覺轉化為實際的聲音線條」**。&lt;/p&gt;&#xA;&lt;p&gt;未來，Feeler 將會透過以下幾個方向，陪伴每一個對聲音有執著的你：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;核心思維教學：&lt;/strong&gt; 拆解現代 R&amp;amp;B、Soul 與融合電子曲風的製作邏輯，拒絕死板的說明書式教育。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;風格聲音產品（Products）：&lt;/strong&gt; 研發帶有獨特美學與質感的 Sample Packs 與音色預設，讓你的創作一開始就擁有領先的底色。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;幕後實戰分享：&lt;/strong&gt; 將真實錄音室的工作流、配唱指導心法與聲音美學轉化為實用知識。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;科技給了我們工具，但 Feeler 想給你觸覺。&#xA;讓我們一起，把那些隱形的感覺，做成聽得見的藝術。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;— Feeler 創辦人 / 音樂製作人 Jia Chang&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://jiachang0902.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiachang0902.github.io/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://jiachang0902.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jiachang0902.github.io/contact/</guid>
+      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34; class=&#34;flex flex-col gap-4&#34;&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;E-Mail&#34; name=&#34;mail&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>
